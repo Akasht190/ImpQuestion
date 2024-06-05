@@ -12,6 +12,7 @@
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Akasht190/ImpQuestion/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
 # Hash Table
@@ -26,3 +27,11 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Akasht190/ImpQuestion/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Akasht190/ImpQuestion/tree/master/0053-maximum-subarray) |
