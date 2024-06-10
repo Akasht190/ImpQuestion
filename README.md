@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Akasht190/ImpQuestion/tree/master/0990-verifying-an-alien-dictionary) |
+| [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akasht190/ImpQuestion/tree/master/0015-3sum) |
+| [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 # Greedy
 |  |
 | ------- |
@@ -60,3 +62,7 @@
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/Akasht190/ImpQuestion/tree/master/0990-verifying-an-alien-dictionary) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
