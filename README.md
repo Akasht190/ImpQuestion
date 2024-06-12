@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Akasht190/ImpQuestion/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Akasht190/ImpQuestion/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,10 +54,12 @@
 | [0015-3sum](https://github.com/Akasht190/ImpQuestion/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Akasht190/ImpQuestion/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 # Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akasht190/ImpQuestion/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Akasht190/ImpQuestion/tree/master/1217-relative-sort-array) |
 # Greedy
