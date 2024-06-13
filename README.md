@@ -24,6 +24,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/Akasht190/ImpQuestion/tree/master/0990-verifying-an-alien-dictionary) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Akasht190/ImpQuestion/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akasht190/ImpQuestion/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -62,10 +63,12 @@
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Akasht190/ImpQuestion/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akasht190/ImpQuestion/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akasht190/ImpQuestion/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String
 |  |
 | ------- |
