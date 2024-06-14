@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Akasht190/ImpQuestion/tree/master/0990-verifying-an-alien-dictionary) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Akasht190/ImpQuestion/tree/master/1217-relative-sort-array) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Akasht190/ImpQuestion/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Akasht190/ImpQuestion/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akasht190/ImpQuestion/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akasht190/ImpQuestion/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String
 |  |
@@ -76,5 +79,6 @@
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Akasht190/ImpQuestion/tree/master/1217-relative-sort-array) |
