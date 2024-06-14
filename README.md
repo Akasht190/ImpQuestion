@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Akasht190/ImpQuestion/tree/master/0485-max-consecutive-ones) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Akasht190/ImpQuestion/tree/master/0990-verifying-an-alien-dictionary) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
