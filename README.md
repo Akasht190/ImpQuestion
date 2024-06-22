@@ -57,6 +57,7 @@
 | [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Akasht190/ImpQuestion/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Akasht190/ImpQuestion/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 # Sorting
@@ -77,6 +78,7 @@
 # String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Akasht190/ImpQuestion/tree/master/0990-verifying-an-alien-dictionary) |
 # Counting Sort
 |  |
@@ -88,3 +90,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0260-single-number-iii) |
+# String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
