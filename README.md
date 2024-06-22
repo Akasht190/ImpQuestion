@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Akasht190/ImpQuestion/tree/master/0485-max-consecutive-ones) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -83,3 +84,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Akasht190/ImpQuestion/tree/master/1217-relative-sort-array) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0260-single-number-iii) |
