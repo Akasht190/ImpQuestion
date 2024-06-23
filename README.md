@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akasht190/ImpQuestion/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/Akasht190/ImpQuestion/tree/master/0338-counting-bits) |
 # Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Akasht190/ImpQuestion/tree/master/0338-counting-bits) |
 # String Matching
 |  |
 | ------- |
