@@ -24,6 +24,7 @@
 | [0260-single-number-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Akasht190/ImpQuestion/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0503-next-greater-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Akasht190/ImpQuestion/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Akasht190/ImpQuestion/tree/master/0990-verifying-an-alien-dictionary) |
 | [1137-height-checker](https://github.com/Akasht190/ImpQuestion/tree/master/1137-height-checker) |
@@ -98,3 +99,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0503-next-greater-element-ii) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0503-next-greater-element-ii) |
