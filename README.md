@@ -18,6 +18,7 @@
 | [0031-next-permutation](https://github.com/Akasht190/ImpQuestion/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Akasht190/ImpQuestion/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akasht190/ImpQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Akasht190/ImpQuestion/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akasht190/ImpQuestion/tree/master/0238-product-of-array-except-self) |
@@ -102,8 +103,10 @@
 # Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akasht190/ImpQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0503-next-greater-element-ii) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akasht190/ImpQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0503-next-greater-element-ii) |
