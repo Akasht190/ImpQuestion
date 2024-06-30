@@ -110,3 +110,18 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akasht190/ImpQuestion/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0503-next-greater-element-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+## Hash Table
+|  |
+| ------- |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+<!---LeetCode Topics End-->
