@@ -115,6 +115,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
