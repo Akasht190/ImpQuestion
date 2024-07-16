@@ -119,6 +119,7 @@
 | [0040-combination-sum-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
@@ -144,6 +145,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Database
 |  |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akasht190/ImpQuestion/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
