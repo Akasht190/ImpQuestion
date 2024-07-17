@@ -120,6 +120,7 @@
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akasht190/ImpQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akasht190/ImpQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
