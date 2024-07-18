@@ -115,6 +115,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
@@ -153,6 +154,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -176,6 +178,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akasht190/ImpQuestion/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
