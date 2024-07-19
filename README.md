@@ -119,6 +119,7 @@
 | [0039-combination-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Akasht190/ImpQuestion/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
@@ -148,6 +149,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Akasht190/ImpQuestion/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akasht190/ImpQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Akasht190/ImpQuestion/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
