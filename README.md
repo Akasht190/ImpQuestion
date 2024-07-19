@@ -121,6 +121,7 @@
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akasht190/ImpQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
@@ -188,17 +189,20 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
