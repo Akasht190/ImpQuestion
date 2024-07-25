@@ -161,6 +161,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
+| [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
@@ -225,6 +226,7 @@
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
