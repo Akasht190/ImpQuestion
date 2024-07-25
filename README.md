@@ -156,6 +156,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Akasht190/ImpQuestion/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Akasht190/ImpQuestion/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akasht190/ImpQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
