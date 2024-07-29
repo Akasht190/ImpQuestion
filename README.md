@@ -137,6 +137,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
+| [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Backtracking
 |  |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
+| [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 ## Memoization
 |  |
