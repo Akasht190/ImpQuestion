@@ -153,6 +153,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Akasht190/ImpQuestion/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -243,6 +244,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
@@ -273,6 +275,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
