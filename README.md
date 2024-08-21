@@ -214,6 +214,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akasht190/ImpQuestion/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -268,6 +269,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
