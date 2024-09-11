@@ -148,6 +148,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Akasht190/ImpQuestion/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
+| [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Binary Search
