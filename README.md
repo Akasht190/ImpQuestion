@@ -139,6 +139,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/Akasht190/ImpQuestion/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
@@ -325,6 +326,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/Akasht190/ImpQuestion/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
