@@ -268,6 +268,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Akasht190/ImpQuestion/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Akasht190/ImpQuestion/tree/master/0091-decode-ways) |
