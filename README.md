@@ -156,6 +156,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akasht190/ImpQuestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -259,6 +260,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/Akasht190/ImpQuestion/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0958-sort-array-by-parity-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Matrix
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
