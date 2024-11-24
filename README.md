@@ -137,6 +137,7 @@
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akasht190/ImpQuestion/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
@@ -361,6 +362,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -421,6 +423,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
