@@ -154,6 +154,7 @@
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akasht190/ImpQuestion/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -337,6 +338,7 @@
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akasht190/ImpQuestion/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -424,6 +426,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -431,6 +434,7 @@
 ## Queue
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
@@ -461,4 +465,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akasht190/ImpQuestion/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
