@@ -145,6 +145,7 @@
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Akasht190/ImpQuestion/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0739-daily-temperatures](https://github.com/Akasht190/ImpQuestion/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Akasht190/ImpQuestion/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akasht190/ImpQuestion/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -438,6 +439,7 @@
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akasht190/ImpQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/Akasht190/ImpQuestion/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/Akasht190/ImpQuestion/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akasht190/ImpQuestion/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akasht190/ImpQuestion/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -492,4 +494,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Akasht190/ImpQuestion/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
