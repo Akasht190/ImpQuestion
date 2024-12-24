@@ -279,6 +279,7 @@
 | [0031-next-permutation](https://github.com/Akasht190/ImpQuestion/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Akasht190/ImpQuestion/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
@@ -320,6 +321,7 @@
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Akasht190/ImpQuestion/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Akasht190/ImpQuestion/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
