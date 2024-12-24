@@ -217,6 +217,7 @@
 | [0198-house-robber](https://github.com/Akasht190/ImpQuestion/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
@@ -281,6 +282,7 @@
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akasht190/ImpQuestion/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -323,6 +325,7 @@
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
