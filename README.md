@@ -151,6 +151,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Akasht190/ImpQuestion/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akasht190/ImpQuestion/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
 | [0941-sort-array-by-parity](https://github.com/Akasht190/ImpQuestion/tree/master/0941-sort-array-by-parity) |
@@ -190,6 +191,7 @@
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
+| [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
 | [0931-maximum-frequency-stack](https://github.com/Akasht190/ImpQuestion/tree/master/0931-maximum-frequency-stack) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -268,6 +270,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
+| [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akasht190/ImpQuestion/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -473,6 +476,7 @@
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0304-range-sum-query-2d-immutable) |
+| [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/Akasht190/ImpQuestion/tree/master/0931-maximum-frequency-stack) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
@@ -538,4 +542,5 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
