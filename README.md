@@ -188,6 +188,7 @@
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Akasht190/ImpQuestion/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Akasht190/ImpQuestion/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -332,6 +333,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Akasht190/ImpQuestion/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
