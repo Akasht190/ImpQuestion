@@ -167,6 +167,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akasht190/ImpQuestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -198,6 +199,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -374,6 +376,7 @@
 | [0371-sum-of-two-integers](https://github.com/Akasht190/ImpQuestion/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
+| [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akasht190/ImpQuestion/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -434,6 +437,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Akasht190/ImpQuestion/tree/master/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Breadth-First Search
 |  |
