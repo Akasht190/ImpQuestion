@@ -178,6 +178,7 @@
 | [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Akasht190/ImpQuestion/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -307,6 +308,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/Akasht190/ImpQuestion/tree/master/0979-di-string-match) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -422,6 +424,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Akasht190/ImpQuestion/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Akasht190/ImpQuestion/tree/master/0792-binary-search) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
@@ -578,4 +581,8 @@
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Akasht190/ImpQuestion/tree/master/1501-circle-and-rectangle-overlapping) |
+## Enumeration
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
