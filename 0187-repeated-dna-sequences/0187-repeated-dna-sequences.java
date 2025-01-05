@@ -4,7 +4,7 @@ class Solution {
 
         HashMap<String,Integer> map=new HashMap<>();
 
-        for(int i=0;i<s.length()-9;i++){
+        for(int i=0;i<=s.length()-10;i++){
             String str=s.substring(i,i+10);
 
             if(map.containsKey(str)){
