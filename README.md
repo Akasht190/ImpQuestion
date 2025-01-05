@@ -194,6 +194,7 @@
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Akasht190/ImpQuestion/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Akasht190/ImpQuestion/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
@@ -346,6 +347,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Akasht190/ImpQuestion/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akasht190/ImpQuestion/tree/master/0383-ransom-note) |
@@ -365,6 +367,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Akasht190/ImpQuestion/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akasht190/ImpQuestion/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Akasht190/ImpQuestion/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -442,6 +445,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0713-subarray-product-less-than-k](https://github.com/Akasht190/ImpQuestion/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -579,6 +583,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
@@ -598,4 +603,8 @@
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
