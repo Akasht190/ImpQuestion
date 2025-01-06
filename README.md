@@ -240,6 +240,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Akasht190/ImpQuestion/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Greedy
@@ -332,6 +333,7 @@
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akasht190/ImpQuestion/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -375,6 +378,7 @@
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Akasht190/ImpQuestion/tree/master/0371-sum-of-two-integers) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -613,4 +617,8 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
