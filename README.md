@@ -179,6 +179,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akasht190/ImpQuestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -376,6 +377,7 @@
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -597,6 +599,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Tree
 |  |
 | ------- |
