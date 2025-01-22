@@ -182,6 +182,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Akasht190/ImpQuestion/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akasht190/ImpQuestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
@@ -347,6 +348,7 @@
 | [0898-transpose-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -476,6 +478,7 @@
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Sliding Window
 |  |
