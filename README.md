@@ -372,6 +372,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Akasht190/ImpQuestion/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Akasht190/ImpQuestion/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Akasht190/ImpQuestion/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Akasht190/ImpQuestion/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akasht190/ImpQuestion/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Akasht190/ImpQuestion/tree/master/0091-decode-ways) |
@@ -406,6 +407,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akasht190/ImpQuestion/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Akasht190/ImpQuestion/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akasht190/ImpQuestion/tree/master/0191-number-of-1-bits) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Akasht190/ImpQuestion/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akasht190/ImpQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
@@ -452,6 +455,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akasht190/ImpQuestion/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
