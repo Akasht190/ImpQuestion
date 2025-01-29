@@ -382,6 +382,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Akasht190/ImpQuestion/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Akasht190/ImpQuestion/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
@@ -436,6 +437,7 @@
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Akasht190/ImpQuestion/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akasht190/ImpQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Akasht190/ImpQuestion/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Akasht190/ImpQuestion/tree/master/0371-sum-of-two-integers) |
