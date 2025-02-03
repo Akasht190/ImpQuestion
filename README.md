@@ -303,6 +303,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Akasht190/ImpQuestion/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/Akasht190/ImpQuestion/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/Akasht190/ImpQuestion/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Akasht190/ImpQuestion/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
