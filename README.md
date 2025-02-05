@@ -538,6 +538,7 @@
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
@@ -552,17 +553,20 @@
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
