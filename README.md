@@ -175,6 +175,7 @@
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Akasht190/ImpQuestion/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akasht190/ImpQuestion/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -452,6 +453,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Akasht190/ImpQuestion/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Akasht190/ImpQuestion/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
@@ -675,6 +677,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Akasht190/ImpQuestion/tree/master/1395-minimum-time-visiting-all-points) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Akasht190/ImpQuestion/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Enumeration
 |  |
