@@ -145,6 +145,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Akasht190/ImpQuestion/tree/master/0354-russian-doll-envelopes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
@@ -214,6 +215,7 @@
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Akasht190/ImpQuestion/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
 | [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
