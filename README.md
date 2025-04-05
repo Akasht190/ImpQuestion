@@ -546,6 +546,7 @@
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
@@ -562,6 +563,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
@@ -662,6 +664,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -671,6 +674,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
