@@ -346,6 +346,7 @@
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Akasht190/ImpQuestion/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akasht190/ImpQuestion/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
 | [0941-sort-array-by-parity](https://github.com/Akasht190/ImpQuestion/tree/master/0941-sort-array-by-parity) |
@@ -409,6 +410,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Akasht190/ImpQuestion/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0952-word-subsets](https://github.com/Akasht190/ImpQuestion/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akasht190/ImpQuestion/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Akasht190/ImpQuestion/tree/master/0979-di-string-match) |
