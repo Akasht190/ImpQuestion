@@ -194,6 +194,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akasht190/ImpQuestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -475,6 +476,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/Akasht190/ImpQuestion/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akasht190/ImpQuestion/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -571,6 +573,7 @@
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 ## Memoization
 |  |
 | ------- |
@@ -589,6 +592,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 ## Union Find
 |  |
 | ------- |
@@ -604,6 +608,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -714,6 +719,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Akasht190/ImpQuestion/tree/master/1395-minimum-time-visiting-all-points) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Akasht190/ImpQuestion/tree/master/1501-circle-and-rectangle-overlapping) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 ## Enumeration
 |  |
 | ------- |
