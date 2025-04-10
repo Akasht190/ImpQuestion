@@ -264,6 +264,7 @@
 | [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
+| [0552-student-attendance-record-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0552-student-attendance-record-ii) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
