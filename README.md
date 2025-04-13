@@ -204,6 +204,7 @@
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Akasht190/ImpQuestion/tree/master/2479-meeting-rooms-iii) |
@@ -333,6 +334,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Akasht190/ImpQuestion/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2479-meeting-rooms-iii](https://github.com/Akasht190/ImpQuestion/tree/master/2479-meeting-rooms-iii) |
 ## Database
 |  |
@@ -641,6 +643,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -763,6 +766,7 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
+| [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Reservoir Sampling
 |  |
