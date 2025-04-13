@@ -208,6 +208,7 @@
 | [2386-min-max-game](https://github.com/Akasht190/ImpQuestion/tree/master/2386-min-max-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Akasht190/ImpQuestion/tree/master/2479-meeting-rooms-iii) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -453,6 +454,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -484,6 +486,7 @@
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0208-implement-trie-prefix-tree) |
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Math
 |  |
 | ------- |
@@ -589,6 +592,7 @@
 | [0383-ransom-note](https://github.com/Akasht190/ImpQuestion/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Breadth-First Search
 |  |
