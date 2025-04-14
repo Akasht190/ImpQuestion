@@ -122,6 +122,7 @@
 | [0039-combination-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Akasht190/ImpQuestion/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Akasht190/ImpQuestion/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Akasht190/ImpQuestion/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akasht190/ImpQuestion/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akasht190/ImpQuestion/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Akasht190/ImpQuestion/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0072-edit-distance) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akasht190/ImpQuestion/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akasht190/ImpQuestion/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0324-wiggle-sort-ii) |
