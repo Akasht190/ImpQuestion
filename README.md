@@ -316,6 +316,7 @@
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Akasht190/ImpQuestion/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Akasht190/ImpQuestion/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Sorting
 |  |
@@ -423,6 +424,7 @@
 | [0131-palindrome-partitioning](https://github.com/Akasht190/ImpQuestion/tree/master/0131-palindrome-partitioning) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Akasht190/ImpQuestion/tree/master/2279-maximum-split-of-positive-even-integers) |
 ## String
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Akasht190/ImpQuestion/tree/master/2266-minimum-cost-to-set-cooking-time) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Akasht190/ImpQuestion/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akasht190/ImpQuestion/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
