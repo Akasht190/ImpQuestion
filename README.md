@@ -185,6 +185,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/Akasht190/ImpQuestion/tree/master/1196-filling-bookcase-shelves) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
@@ -251,6 +252,7 @@
 | [0931-maximum-frequency-stack](https://github.com/Akasht190/ImpQuestion/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/Akasht190/ImpQuestion/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
@@ -293,6 +295,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
+| [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/Akasht190/ImpQuestion/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -341,6 +344,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Akasht190/ImpQuestion/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -393,6 +397,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/Akasht190/ImpQuestion/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -463,6 +468,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akasht190/ImpQuestion/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Akasht190/ImpQuestion/tree/master/0979-di-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akasht190/ImpQuestion/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
