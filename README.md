@@ -225,6 +225,7 @@
 | [3463-alternating-groups-i](https://github.com/Akasht190/ImpQuestion/tree/master/3463-alternating-groups-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akasht190/ImpQuestion/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/Akasht190/ImpQuestion/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
