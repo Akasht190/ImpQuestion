@@ -202,6 +202,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akasht190/ImpQuestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Akasht190/ImpQuestion/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
@@ -409,6 +410,7 @@
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Akasht190/ImpQuestion/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 ## Backtracking
 |  |
 | ------- |
@@ -782,6 +784,7 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Akasht190/ImpQuestion/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Akasht190/ImpQuestion/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
