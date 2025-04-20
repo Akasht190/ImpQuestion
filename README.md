@@ -166,6 +166,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Akasht190/ImpQuestion/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/Akasht190/ImpQuestion/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akasht190/ImpQuestion/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
@@ -248,6 +249,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
+| [0797-rabbits-in-forest](https://github.com/Akasht190/ImpQuestion/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
 | [0869-similar-string-groups](https://github.com/Akasht190/ImpQuestion/tree/master/0869-similar-string-groups) |
@@ -318,6 +320,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
+| [0797-rabbits-in-forest](https://github.com/Akasht190/ImpQuestion/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akasht190/ImpQuestion/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Akasht190/ImpQuestion/tree/master/0979-di-string-match) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -531,6 +534,7 @@
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Akasht190/ImpQuestion/tree/master/0539-minimum-time-difference) |
+| [0797-rabbits-in-forest](https://github.com/Akasht190/ImpQuestion/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Akasht190/ImpQuestion/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
