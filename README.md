@@ -647,6 +647,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Akasht190/ImpQuestion/tree/master/0322-coin-change) |
@@ -670,6 +671,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Akasht190/ImpQuestion/tree/master/0419-battleships-in-a-board) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
@@ -797,6 +799,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 ## String Matching
@@ -809,6 +812,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 ## Hash Function
