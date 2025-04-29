@@ -317,6 +317,7 @@
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Akasht190/ImpQuestion/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Akasht190/ImpQuestion/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Akasht190/ImpQuestion/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -424,6 +425,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Akasht190/ImpQuestion/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Akasht190/ImpQuestion/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -508,6 +510,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Akasht190/ImpQuestion/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Akasht190/ImpQuestion/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
