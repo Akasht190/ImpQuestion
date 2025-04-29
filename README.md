@@ -171,6 +171,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akasht190/ImpQuestion/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0817-design-hashmap](https://github.com/Akasht190/ImpQuestion/tree/master/0817-design-hashmap) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Akasht190/ImpQuestion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0869-similar-string-groups](https://github.com/Akasht190/ImpQuestion/tree/master/0869-similar-string-groups) |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
 | [0883-car-fleet](https://github.com/Akasht190/ImpQuestion/tree/master/0883-car-fleet) |
@@ -326,6 +327,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0334-increasing-triplet-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/Akasht190/ImpQuestion/tree/master/0797-rabbits-in-forest) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Akasht190/ImpQuestion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akasht190/ImpQuestion/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Akasht190/ImpQuestion/tree/master/0979-di-string-match) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -432,6 +434,7 @@
 | [0661-image-smoother](https://github.com/Akasht190/ImpQuestion/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Akasht190/ImpQuestion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0898-transpose-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
