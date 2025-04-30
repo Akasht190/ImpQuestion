@@ -14,11 +14,22 @@
  * }
  */
 class Solution {
+    List<List<TreeNode>> dp=new ArrayList<>();
     public List<TreeNode> allPossibleFBT(int n) {
+        for(int i=0;i<=n;i++){
+            dp.add(new ArrayList<>());
+        }
        return  helper(n);
     }
 
     public List<TreeNode> helper(int n){
+        if(n%2==0){
+            return new ArrayList<>();
+        }
+
+        if(!dp.get(n).isEmpty()){
+            return dp.get(n);
+        }
         if(n==1){
             ArrayList<TreeNode> ans=new ArrayList<>();
             ans.add(new TreeNode(0));
@@ -40,6 +51,7 @@ class Solution {
                 }
             }
         }
+        dp.set(n,result);
         return result;
     }
 }
