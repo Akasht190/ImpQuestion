@@ -307,6 +307,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Akasht190/ImpQuestion/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
+| [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Akasht190/ImpQuestion/tree/master/1130-last-stone-weight-ii) |
@@ -530,6 +531,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
+| [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
@@ -681,6 +683,7 @@
 | ------- |
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
+| [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -817,6 +820,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 ## String Matching
 |  |
@@ -831,6 +835,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 ## Hash Function
 |  |
