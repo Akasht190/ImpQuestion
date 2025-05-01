@@ -189,6 +189,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Akasht190/ImpQuestion/tree/master/1130-last-stone-weight-ii) |
@@ -740,6 +741,7 @@
 | [0883-car-fleet](https://github.com/Akasht190/ImpQuestion/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/Akasht190/ImpQuestion/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akasht190/ImpQuestion/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akasht190/ImpQuestion/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -819,6 +821,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/Akasht190/ImpQuestion/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Akasht190/ImpQuestion/tree/master/0883-car-fleet) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -830,6 +833,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Akasht190/ImpQuestion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 ## String Matching
@@ -848,6 +852,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Akasht190/ImpQuestion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 ## Hash Function
@@ -910,4 +915,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Akasht190/ImpQuestion/tree/master/0274-h-index) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
