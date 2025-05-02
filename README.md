@@ -331,6 +331,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0334-increasing-triplet-subsequence) |
+| [0420-strong-password-checker](https://github.com/Akasht190/ImpQuestion/tree/master/0420-strong-password-checker) |
 | [0680-valid-palindrome-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Akasht190/ImpQuestion/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Akasht190/ImpQuestion/tree/master/0797-rabbits-in-forest) |
@@ -489,6 +490,7 @@
 | [0383-ransom-note](https://github.com/Akasht190/ImpQuestion/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
+| [0420-strong-password-checker](https://github.com/Akasht190/ImpQuestion/tree/master/0420-strong-password-checker) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Akasht190/ImpQuestion/tree/master/0539-minimum-time-difference) |
@@ -771,6 +773,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/Akasht190/ImpQuestion/tree/master/0420-strong-password-checker) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
