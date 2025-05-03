@@ -161,6 +161,7 @@
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Akasht190/ImpQuestion/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/Akasht190/ImpQuestion/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Akasht190/ImpQuestion/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
@@ -442,6 +443,7 @@
 | [0419-battleships-in-a-board](https://github.com/Akasht190/ImpQuestion/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Akasht190/ImpQuestion/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/Akasht190/ImpQuestion/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Akasht190/ImpQuestion/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -676,6 +678,7 @@
 | [0322-coin-change](https://github.com/Akasht190/ImpQuestion/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Akasht190/ImpQuestion/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
@@ -703,6 +706,7 @@
 | [0419-battleships-in-a-board](https://github.com/Akasht190/ImpQuestion/tree/master/0419-battleships-in-a-board) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Akasht190/ImpQuestion/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akasht190/ImpQuestion/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
@@ -717,6 +721,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Akasht190/ImpQuestion/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [0869-similar-string-groups](https://github.com/Akasht190/ImpQuestion/tree/master/0869-similar-string-groups) |
