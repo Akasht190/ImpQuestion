@@ -754,6 +754,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Akasht190/ImpQuestion/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akasht190/ImpQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Akasht190/ImpQuestion/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Akasht190/ImpQuestion/tree/master/0883-car-fleet) |
@@ -765,6 +766,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0304-range-sum-query-2d-immutable) |
@@ -848,6 +850,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Akasht190/ImpQuestion/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
@@ -868,6 +871,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Akasht190/ImpQuestion/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
@@ -939,10 +943,15 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Interactive
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
