@@ -688,6 +688,7 @@
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
 | [0869-similar-string-groups](https://github.com/Akasht190/ImpQuestion/tree/master/0869-similar-string-groups) |
+| [0871-keys-and-rooms](https://github.com/Akasht190/ImpQuestion/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
@@ -716,6 +717,7 @@
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
 | [0869-similar-string-groups](https://github.com/Akasht190/ImpQuestion/tree/master/0869-similar-string-groups) |
+| [0871-keys-and-rooms](https://github.com/Akasht190/ImpQuestion/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Akasht190/ImpQuestion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
@@ -736,6 +738,7 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Akasht190/ImpQuestion/tree/master/0871-keys-and-rooms) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
