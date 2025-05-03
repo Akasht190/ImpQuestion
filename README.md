@@ -429,6 +429,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -572,6 +573,7 @@
 | [0912-random-pick-with-weight](https://github.com/Akasht190/ImpQuestion/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Akasht190/ImpQuestion/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Akasht190/ImpQuestion/tree/master/1500-count-largest-group) |
@@ -620,6 +622,7 @@
 | [0912-random-pick-with-weight](https://github.com/Akasht190/ImpQuestion/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -938,4 +941,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
