@@ -697,6 +697,7 @@
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2439-longest-cycle-in-a-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -726,6 +727,7 @@
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -747,6 +749,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2439-longest-cycle-in-a-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -936,6 +939,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2439-longest-cycle-in-a-graph) |
 ## Counting Sort
 |  |
 | ------- |
