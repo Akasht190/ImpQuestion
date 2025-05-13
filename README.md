@@ -362,6 +362,7 @@
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akasht190/ImpQuestion/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Akasht190/ImpQuestion/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Akasht190/ImpQuestion/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Akasht190/ImpQuestion/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -419,6 +420,7 @@
 | [0143-reorder-list](https://github.com/Akasht190/ImpQuestion/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Akasht190/ImpQuestion/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Akasht190/ImpQuestion/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
@@ -783,6 +785,7 @@
 | [0146-lru-cache](https://github.com/Akasht190/ImpQuestion/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/Akasht190/ImpQuestion/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
@@ -805,6 +808,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akasht190/ImpQuestion/tree/master/0295-find-median-from-data-stream) |
 | [0420-strong-password-checker](https://github.com/Akasht190/ImpQuestion/tree/master/0420-strong-password-checker) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
@@ -850,6 +854,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akasht190/ImpQuestion/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
 | [2161-stock-price-fluctuation](https://github.com/Akasht190/ImpQuestion/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Stack
