@@ -178,6 +178,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Akasht190/ImpQuestion/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0869-similar-string-groups](https://github.com/Akasht190/ImpQuestion/tree/master/0869-similar-string-groups) |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Akasht190/ImpQuestion/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Akasht190/ImpQuestion/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
@@ -627,6 +628,7 @@
 | [0792-binary-search](https://github.com/Akasht190/ImpQuestion/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Akasht190/ImpQuestion/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Akasht190/ImpQuestion/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-random-pick-with-weight](https://github.com/Akasht190/ImpQuestion/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
