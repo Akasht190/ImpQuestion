@@ -197,6 +197,7 @@
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Akasht190/ImpQuestion/tree/master/1130-last-stone-weight-ii) |
+| [1185-find-in-mountain-array](https://github.com/Akasht190/ImpQuestion/tree/master/1185-find-in-mountain-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Akasht190/ImpQuestion/tree/master/1196-filling-bookcase-shelves) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
@@ -631,6 +632,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Akasht190/ImpQuestion/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-random-pick-with-weight](https://github.com/Akasht190/ImpQuestion/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1185-find-in-mountain-array](https://github.com/Akasht190/ImpQuestion/tree/master/1185-find-in-mountain-array) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
@@ -976,6 +978,7 @@
 ## Interactive
 |  |
 | ------- |
+| [1185-find-in-mountain-array](https://github.com/Akasht190/ImpQuestion/tree/master/1185-find-in-mountain-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 ## Iterator
 |  |
