@@ -161,6 +161,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Akasht190/ImpQuestion/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Akasht190/ImpQuestion/tree/master/0695-max-area-of-island) |
@@ -260,6 +261,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
+| [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Akasht190/ImpQuestion/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Akasht190/ImpQuestion/tree/master/0797-rabbits-in-forest) |
@@ -369,6 +371,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Akasht190/ImpQuestion/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Akasht190/ImpQuestion/tree/master/0539-minimum-time-difference) |
+| [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
@@ -547,6 +550,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Akasht190/ImpQuestion/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Akasht190/ImpQuestion/tree/master/0371-sum-of-two-integers) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
