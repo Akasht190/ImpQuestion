@@ -234,6 +234,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3321-type-of-triangle](https://github.com/Akasht190/ImpQuestion/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Akasht190/ImpQuestion/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -391,6 +392,7 @@
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
 | [2479-meeting-rooms-iii](https://github.com/Akasht190/ImpQuestion/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/Akasht190/ImpQuestion/tree/master/3321-type-of-triangle) |
 ## Database
 |  |
 | ------- |
@@ -600,6 +602,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akasht190/ImpQuestion/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3321-type-of-triangle](https://github.com/Akasht190/ImpQuestion/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
