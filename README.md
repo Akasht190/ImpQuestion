@@ -240,6 +240,7 @@
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3463-alternating-groups-i](https://github.com/Akasht190/ImpQuestion/tree/master/3463-alternating-groups-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3639-zero-array-transformation-i](https://github.com/Akasht190/ImpQuestion/tree/master/3639-zero-array-transformation-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akasht190/ImpQuestion/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Akasht190/ImpQuestion/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -659,6 +660,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Akasht190/ImpQuestion/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3639-zero-array-transformation-i](https://github.com/Akasht190/ImpQuestion/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
 | ------- |
