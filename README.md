@@ -157,6 +157,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/Akasht190/ImpQuestion/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/Akasht190/ImpQuestion/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
@@ -313,6 +314,7 @@
 | [0322-coin-change](https://github.com/Akasht190/ImpQuestion/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Akasht190/ImpQuestion/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
+| [0472-concatenated-words](https://github.com/Akasht190/ImpQuestion/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0552-student-attendance-record-ii) |
@@ -512,6 +514,7 @@
 | [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/Akasht190/ImpQuestion/tree/master/0420-strong-password-checker) |
+| [0472-concatenated-words](https://github.com/Akasht190/ImpQuestion/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Akasht190/ImpQuestion/tree/master/0539-minimum-time-difference) |
@@ -571,6 +574,7 @@
 | [0014-longest-common-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0208-implement-trie-prefix-tree) |
+| [0472-concatenated-words](https://github.com/Akasht190/ImpQuestion/tree/master/0472-concatenated-words) |
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Math
@@ -737,6 +741,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Akasht190/ImpQuestion/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/Akasht190/ImpQuestion/tree/master/0419-battleships-in-a-board) |
+| [0472-concatenated-words](https://github.com/Akasht190/ImpQuestion/tree/master/0472-concatenated-words) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0662-maximum-width-of-binary-tree) |
