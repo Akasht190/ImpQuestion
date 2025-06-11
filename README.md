@@ -250,6 +250,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Akasht190/ImpQuestion/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Akasht190/ImpQuestion/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -496,6 +497,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akasht190/ImpQuestion/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Akasht190/ImpQuestion/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Akasht190/ImpQuestion/tree/master/0032-longest-valid-parentheses) |
@@ -588,6 +590,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Akasht190/ImpQuestion/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Akasht190/ImpQuestion/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akasht190/ImpQuestion/tree/master/0150-evaluate-reverse-polish-notation) |
