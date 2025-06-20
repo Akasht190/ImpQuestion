@@ -287,6 +287,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Akasht190/ImpQuestion/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Akasht190/ImpQuestion/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2161-stock-price-fluctuation](https://github.com/Akasht190/ImpQuestion/tree/master/2161-stock-price-fluctuation) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akasht190/ImpQuestion/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -546,6 +547,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Akasht190/ImpQuestion/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akasht190/ImpQuestion/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
