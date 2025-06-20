@@ -520,6 +520,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akasht190/ImpQuestion/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Akasht190/ImpQuestion/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Akasht190/ImpQuestion/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akasht190/ImpQuestion/tree/master/0412-fizz-buzz) |
@@ -721,6 +722,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Akasht190/ImpQuestion/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Akasht190/ImpQuestion/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -755,6 +757,7 @@
 | [0200-number-of-islands](https://github.com/Akasht190/ImpQuestion/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Akasht190/ImpQuestion/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0337-house-robber-iii) |
 | [0419-battleships-in-a-board](https://github.com/Akasht190/ImpQuestion/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/Akasht190/ImpQuestion/tree/master/0472-concatenated-words) |
@@ -827,6 +830,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Akasht190/ImpQuestion/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Akasht190/ImpQuestion/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
@@ -915,6 +919,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Akasht190/ImpQuestion/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Akasht190/ImpQuestion/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
@@ -941,6 +946,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Akasht190/ImpQuestion/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Akasht190/ImpQuestion/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Akasht190/ImpQuestion/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Akasht190/ImpQuestion/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Akasht190/ImpQuestion/tree/master/0572-subtree-of-another-tree) |
