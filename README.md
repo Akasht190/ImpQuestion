@@ -774,6 +774,7 @@
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Akasht190/ImpQuestion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/Akasht190/ImpQuestion/tree/master/1380-number-of-closed-islands) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Akasht190/ImpQuestion/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2439-longest-cycle-in-a-graph) |
@@ -923,6 +924,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Akasht190/ImpQuestion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Akasht190/ImpQuestion/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
 | ------- |
@@ -948,6 +950,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Akasht190/ImpQuestion/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Akasht190/ImpQuestion/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Hash Function
 |  |
 | ------- |
