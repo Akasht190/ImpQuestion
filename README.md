@@ -209,6 +209,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/Akasht190/ImpQuestion/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akasht190/ImpQuestion/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akasht190/ImpQuestion/tree/master/1477-product-of-the-last-k-numbers) |
+| [1511-count-number-of-teams](https://github.com/Akasht190/ImpQuestion/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -337,6 +338,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Akasht190/ImpQuestion/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/Akasht190/ImpQuestion/tree/master/1511-count-number-of-teams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Akasht190/ImpQuestion/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -892,10 +894,12 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akasht190/ImpQuestion/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [1511-count-number-of-teams](https://github.com/Akasht190/ImpQuestion/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akasht190/ImpQuestion/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1511-count-number-of-teams](https://github.com/Akasht190/ImpQuestion/tree/master/1511-count-number-of-teams) |
 ## Merge Sort
 |  |
 | ------- |
