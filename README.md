@@ -197,6 +197,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Akasht190/ImpQuestion/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/Akasht190/ImpQuestion/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
@@ -280,6 +281,7 @@
 | [0931-maximum-frequency-stack](https://github.com/Akasht190/ImpQuestion/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/Akasht190/ImpQuestion/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akasht190/ImpQuestion/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/Akasht190/ImpQuestion/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/1256-rank-transform-of-an-array) |
@@ -812,6 +814,7 @@
 | [0801-is-graph-bipartite](https://github.com/Akasht190/ImpQuestion/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Akasht190/ImpQuestion/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Akasht190/ImpQuestion/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/Akasht190/ImpQuestion/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akasht190/ImpQuestion/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
