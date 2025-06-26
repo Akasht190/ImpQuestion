@@ -344,6 +344,7 @@
 | [1511-count-number-of-teams](https://github.com/Akasht190/ImpQuestion/tree/master/1511-count-number-of-teams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Akasht190/ImpQuestion/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Akasht190/ImpQuestion/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Akasht190/ImpQuestion/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Akasht190/ImpQuestion/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -371,6 +372,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akasht190/ImpQuestion/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Akasht190/ImpQuestion/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Akasht190/ImpQuestion/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Akasht190/ImpQuestion/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Sorting
 |  |
@@ -559,6 +561,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akasht190/ImpQuestion/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Akasht190/ImpQuestion/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -760,6 +763,7 @@
 | [0139-word-break](https://github.com/Akasht190/ImpQuestion/tree/master/0139-word-break) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
 | [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Akasht190/ImpQuestion/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Depth-First Search
 |  |
 | ------- |
