@@ -216,6 +216,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akasht190/ImpQuestion/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Akasht190/ImpQuestion/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -405,6 +406,7 @@
 | [1306-minimum-absolute-difference](https://github.com/Akasht190/ImpQuestion/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akasht190/ImpQuestion/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Akasht190/ImpQuestion/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
 | [2353-maximum-score-of-a-node-sequence](https://github.com/Akasht190/ImpQuestion/tree/master/2353-maximum-score-of-a-node-sequence) |
@@ -463,6 +465,7 @@
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akasht190/ImpQuestion/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akasht190/ImpQuestion/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -673,6 +676,7 @@
 | [1185-find-in-mountain-array](https://github.com/Akasht190/ImpQuestion/tree/master/1185-find-in-mountain-array) |
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akasht190/ImpQuestion/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
