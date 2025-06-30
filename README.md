@@ -163,6 +163,7 @@
 | [0539-minimum-time-difference](https://github.com/Akasht190/ImpQuestion/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akasht190/ImpQuestion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Akasht190/ImpQuestion/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0594-longest-harmonious-subsequence) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
@@ -271,6 +272,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akasht190/ImpQuestion/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Akasht190/ImpQuestion/tree/master/0535-encode-and-decode-tinyurl) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/Akasht190/ImpQuestion/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Akasht190/ImpQuestion/tree/master/0768-partition-labels) |
@@ -391,6 +393,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Akasht190/ImpQuestion/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Akasht190/ImpQuestion/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Akasht190/ImpQuestion/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -699,6 +702,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Akasht190/ImpQuestion/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -726,6 +730,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Akasht190/ImpQuestion/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Akasht190/ImpQuestion/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akasht190/ImpQuestion/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
