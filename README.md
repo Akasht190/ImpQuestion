@@ -562,6 +562,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Akasht190/ImpQuestion/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Akasht190/ImpQuestion/tree/master/1297-maximum-number-of-balloons) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Akasht190/ImpQuestion/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Akasht190/ImpQuestion/tree/master/1960-check-if-the-sentence-is-pangram) |
