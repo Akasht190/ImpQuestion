@@ -238,6 +238,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Akasht190/ImpQuestion/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -594,6 +595,7 @@
 | [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -685,6 +687,7 @@
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akasht190/ImpQuestion/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Akasht190/ImpQuestion/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -713,6 +716,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akasht190/ImpQuestion/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1813-maximum-erasure-value](https://github.com/Akasht190/ImpQuestion/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Akasht190/ImpQuestion/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3463-alternating-groups-i](https://github.com/Akasht190/ImpQuestion/tree/master/3463-alternating-groups-i) |
