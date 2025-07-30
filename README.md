@@ -239,6 +239,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Akasht190/ImpQuestion/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Akasht190/ImpQuestion/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Akasht190/ImpQuestion/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akasht190/ImpQuestion/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -596,6 +597,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Akasht190/ImpQuestion/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Akasht190/ImpQuestion/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -1079,4 +1081,8 @@
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/Akasht190/ImpQuestion/tree/master/1203-print-in-order) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Akasht190/ImpQuestion/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
