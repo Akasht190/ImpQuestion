@@ -189,6 +189,7 @@
 | [0906-walking-robot-simulation](https://github.com/Akasht190/ImpQuestion/tree/master/0906-walking-robot-simulation) |
 | [0912-random-pick-with-weight](https://github.com/Akasht190/ImpQuestion/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Akasht190/ImpQuestion/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Akasht190/ImpQuestion/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Akasht190/ImpQuestion/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akasht190/ImpQuestion/tree/master/0958-sort-array-by-parity-ii) |
@@ -342,6 +343,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/0808-number-of-matching-subsequences) |
 | [0875-longest-mountain-in-array](https://github.com/Akasht190/ImpQuestion/tree/master/0875-longest-mountain-in-array) |
 | [0930-all-possible-full-binary-trees](https://github.com/Akasht190/ImpQuestion/tree/master/0930-all-possible-full-binary-trees) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Akasht190/ImpQuestion/tree/master/1025-minimum-cost-for-tickets) |
 | [1129-longest-string-chain](https://github.com/Akasht190/ImpQuestion/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Akasht190/ImpQuestion/tree/master/1130-last-stone-weight-ii) |
@@ -594,6 +596,7 @@
 | [0371-sum-of-two-integers](https://github.com/Akasht190/ImpQuestion/tree/master/0371-sum-of-two-integers) |
 | [0638-shopping-offers](https://github.com/Akasht190/ImpQuestion/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/Akasht190/ImpQuestion/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akasht190/ImpQuestion/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
