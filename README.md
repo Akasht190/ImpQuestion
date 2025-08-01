@@ -223,6 +223,7 @@
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Akasht190/ImpQuestion/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Akasht190/ImpQuestion/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/Akasht190/ImpQuestion/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Akasht190/ImpQuestion/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akasht190/ImpQuestion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -503,6 +504,7 @@
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Akasht190/ImpQuestion/tree/master/1380-number-of-closed-islands) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1753-path-with-minimum-effort](https://github.com/Akasht190/ImpQuestion/tree/master/1753-path-with-minimum-effort) |
 | [2145-grid-game](https://github.com/Akasht190/ImpQuestion/tree/master/2145-grid-game) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/Akasht190/ImpQuestion/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 ## Backtracking
@@ -692,6 +694,7 @@
 | [1249-snapshot-array](https://github.com/Akasht190/ImpQuestion/tree/master/1249-snapshot-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Akasht190/ImpQuestion/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akasht190/ImpQuestion/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1753-path-with-minimum-effort](https://github.com/Akasht190/ImpQuestion/tree/master/1753-path-with-minimum-effort) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akasht190/ImpQuestion/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Akasht190/ImpQuestion/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -778,6 +781,7 @@
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/Akasht190/ImpQuestion/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/Akasht190/ImpQuestion/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2439-longest-cycle-in-a-graph) |
@@ -818,6 +822,7 @@
 | [1254-deepest-leaves-sum](https://github.com/Akasht190/ImpQuestion/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/Akasht190/ImpQuestion/tree/master/1380-number-of-closed-islands) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Akasht190/ImpQuestion/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1753-path-with-minimum-effort](https://github.com/Akasht190/ImpQuestion/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2439-longest-cycle-in-a-graph) |
@@ -833,6 +838,7 @@
 | [0869-similar-string-groups](https://github.com/Akasht190/ImpQuestion/tree/master/0869-similar-string-groups) |
 | [1073-number-of-enclaves](https://github.com/Akasht190/ImpQuestion/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Akasht190/ImpQuestion/tree/master/1380-number-of-closed-islands) |
+| [1753-path-with-minimum-effort](https://github.com/Akasht190/ImpQuestion/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Akasht190/ImpQuestion/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -901,6 +907,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Akasht190/ImpQuestion/tree/master/1014-k-closest-points-to-origin) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Akasht190/ImpQuestion/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Akasht190/ImpQuestion/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+| [1753-path-with-minimum-effort](https://github.com/Akasht190/ImpQuestion/tree/master/1753-path-with-minimum-effort) |
 | [2161-stock-price-fluctuation](https://github.com/Akasht190/ImpQuestion/tree/master/2161-stock-price-fluctuation) |
 | [2479-meeting-rooms-iii](https://github.com/Akasht190/ImpQuestion/tree/master/2479-meeting-rooms-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Akasht190/ImpQuestion/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
