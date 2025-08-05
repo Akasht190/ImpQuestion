@@ -263,6 +263,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akasht190/ImpQuestion/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Akasht190/ImpQuestion/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Akasht190/ImpQuestion/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akasht190/ImpQuestion/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -529,6 +530,7 @@
 | [0012-integer-to-roman](https://github.com/Akasht190/ImpQuestion/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akasht190/ImpQuestion/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Akasht190/ImpQuestion/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Akasht190/ImpQuestion/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Akasht190/ImpQuestion/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Akasht190/ImpQuestion/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Akasht190/ImpQuestion/tree/master/0058-length-of-last-word) |
@@ -720,6 +722,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Akasht190/ImpQuestion/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Akasht190/ImpQuestion/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akasht190/ImpQuestion/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Akasht190/ImpQuestion/tree/master/0658-find-k-closest-elements) |
