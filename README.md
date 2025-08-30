@@ -382,6 +382,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Akasht190/ImpQuestion/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/Akasht190/ImpQuestion/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Akasht190/ImpQuestion/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2032-largest-odd-number-in-string](https://github.com/Akasht190/ImpQuestion/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akasht190/ImpQuestion/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Akasht190/ImpQuestion/tree/master/2245-destroying-asteroids) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Akasht190/ImpQuestion/tree/master/2279-maximum-split-of-positive-even-integers) |
@@ -581,6 +582,7 @@
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/Akasht190/ImpQuestion/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Akasht190/ImpQuestion/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Akasht190/ImpQuestion/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/Akasht190/ImpQuestion/tree/master/2032-largest-odd-number-in-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Akasht190/ImpQuestion/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Akasht190/ImpQuestion/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akasht190/ImpQuestion/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -654,6 +656,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/Akasht190/ImpQuestion/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1635-number-of-good-pairs](https://github.com/Akasht190/ImpQuestion/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akasht190/ImpQuestion/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Akasht190/ImpQuestion/tree/master/2032-largest-odd-number-in-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Akasht190/ImpQuestion/tree/master/2206-detonate-the-maximum-bombs) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Akasht190/ImpQuestion/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Akasht190/ImpQuestion/tree/master/2279-maximum-split-of-positive-even-integers) |
